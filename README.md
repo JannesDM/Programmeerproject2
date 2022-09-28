@@ -1,4 +1,4 @@
-# Programmeerproject2
+# Programmeerproject 2
 A programming project made for the second bachelor of Computer Science, graded 17/20.<br/>
 The project was created in 3 phases, this being the last one.<br/>
 
